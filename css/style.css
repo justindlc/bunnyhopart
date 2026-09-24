@@ -267,7 +267,7 @@ header#top nav ul li a.nav-cta {
 
 @media only screen and (max-width: 480px) {
 	#banner h2 {
-		font-size: 64px;
+		font-size: 48px;
 		margin-top: 64px;
 	}
 	#banner p.subtitle {
